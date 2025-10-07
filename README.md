@@ -17,8 +17,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: 
-RegisterNumber:  
+Developed by: shaalini.s
+RegisterNumber:  25017649
 */
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
@@ -82,8 +82,7 @@ for email, label in zip(new_emails, predictions):
 
 ## Output:
 ![SVM For Spam Mail Detection](sam.png)
-![alt text](<Screenshot 2025-10-06 221524.png>)
-![alt text](<Screenshot 2025-10-06 221433.png>)
+![alt text](<Screenshot 2025-10-07 195128.png>)
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
