@@ -6,7 +6,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
-
+3. 
 ## Algorithm
 1. Load and preprocess the dataset.
 2. Split the data into training and testing sets.
